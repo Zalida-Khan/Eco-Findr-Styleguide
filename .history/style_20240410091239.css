@@ -496,31 +496,17 @@ li a:hover {
 
 .header-colour {
     text-align: left;
-    font-size: 10px;
+    font-size: 20px;
     /* text-decoration: dotted 5px #9cc089 overline; */
     color: #1a3d28;
-    font-weight: 400;
+    font-weight: 600;
     padding-left: 15px;
     margin-bottom: 40px;
     border-left: solid 10px #9cc089;
     margin-top: 20px;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
     font-size: 35px;
 }
-
-.container-h3 {
-    display: grid;
-    align-items: center;
-    text-align: left;
-    background-color: #fff;
-    padding: 20px;
-    padding-left: 80px;
-    padding-right: 100px;
-    border-radius: 25px;
-    margin-bottom: 45px;
-    font-size: medium;
-}
-
 
 /* Accessibility */
 .text-cont4 {

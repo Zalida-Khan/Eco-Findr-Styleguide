@@ -508,20 +508,6 @@ li a:hover {
     font-size: 35px;
 }
 
-.container-h3 {
-    display: grid;
-    align-items: center;
-    text-align: left;
-    background-color: #fff;
-    padding: 20px;
-    padding-left: 80px;
-    padding-right: 100px;
-    border-radius: 25px;
-    margin-bottom: 45px;
-    font-size: medium;
-}
-
-
 /* Accessibility */
 .text-cont4 {
     display: grid;
