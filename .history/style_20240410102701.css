@@ -131,20 +131,16 @@ body {
 .center-text {
     margin-left: 40px;
     font-size: large;
-}
 
-.center-text-2 {
-    margin-left: 60px;
-    font-size: large;
 }
 
 .text-logo {
     margin-left: 20px;
 }
 
-.header-logo {
+.header {
     text-align: left;
-    font-size: 20px;
+    font-size: 30px;
     /* text-decoration: dotted 5px #9cc089 overline; */
     color: #1a3d28;
     font-weight: 600;
@@ -413,7 +409,6 @@ li a:hover {
     background-color: #000;
     color: #fff;
 }
-
 .buttonFour {
     padding: 15px 40px;
     cursor: pointer;

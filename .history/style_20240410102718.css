@@ -131,11 +131,7 @@ body {
 .center-text {
     margin-left: 40px;
     font-size: large;
-}
 
-.center-text-2 {
-    margin-left: 60px;
-    font-size: large;
 }
 
 .text-logo {
@@ -413,7 +409,6 @@ li a:hover {
     background-color: #000;
     color: #fff;
 }
-
 .buttonFour {
     padding: 15px 40px;
     cursor: pointer;

@@ -131,28 +131,11 @@ body {
 .center-text {
     margin-left: 40px;
     font-size: large;
-}
 
-.center-text-2 {
-    margin-left: 60px;
-    font-size: large;
 }
 
 .text-logo {
     margin-left: 20px;
-}
-
-.header-logo {
-    text-align: left;
-    font-size: 20px;
-    /* text-decoration: dotted 5px #9cc089 overline; */
-    color: #1a3d28;
-    font-weight: 600;
-    padding-left: 15px;
-    margin-bottom: 40px;
-    border-left: solid 10px #9cc089;
-    margin-top: 60px;
-    font-size: 35px;
 }
 
 /* NAVBAR */
@@ -413,7 +396,6 @@ li a:hover {
     background-color: #000;
     color: #fff;
 }
-
 .buttonFour {
     padding: 15px 40px;
     cursor: pointer;
